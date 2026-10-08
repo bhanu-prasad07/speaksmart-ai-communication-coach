@@ -1,0 +1,10 @@
+{
+  "name": "Luminescent Cadence - AI Voice & Speech Coach",
+  "description": "Elite communication mentor, speech analytics, teleprompter insert pages, text-to-speech studio, and interactive Gemini voice sparring.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
